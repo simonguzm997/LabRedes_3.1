@@ -1,0 +1,8 @@
+Date of the test: 2021-03-16 07-40-54
+Name of the sent file: 250MBF.txt
+Size of the sent file: 250MB
+------------------------------------------
+Client ip: 192.168.0.3 port: 51490
+Successfull delivery: True
+Transfer time: 0:00:16.099588
+Packet Number: 256000
