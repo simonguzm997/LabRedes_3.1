@@ -1,0 +1,14 @@
+Date of the test: 2021-03-16 02-47-18
+Name connection amount: 5
+Client Number: 5
+------------------------------------------
+My connection info: 
+My IP: 192.168.0.3
+My Port: 51800
+Peer info: 
+It's IP: 192.168.0.5
+It's Port: 50000
+------------------------------------------
+Successfull delivery: True
+Transfer time: 0:00:40.122788
+Packet Number: 102402
