@@ -3,6 +3,7 @@
 ## Pasos para correr la aplicación: 
 * Abrir los archivos client.py y serverMilty.py en su editor de texto preferido
 * Editar el atributo TCP_IP por la dirección IP asociado a la maquina Ubuntu del servidor
+* Crear los archivos de 100MB y 250MB con los nombre 100MBF.txt y 250MBF.txt respectivamente en la carpeta del servidor
 
 ### Servidor:
 1. Transferir la carpeta "Servidor" con todos sus contenidos a la maquina Ubuntu del servidor
